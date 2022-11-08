@@ -28,8 +28,6 @@
  */
 #define WINSIZE 21
 
-//IMAGE struct for ECPS 203 A5
-//copy the following definition of IMAGE to your source code
 
 typedef struct Image_s
 {
